@@ -87,6 +87,7 @@ The code is kept for educational and research purposes only.
 - https://github.com/webdev771/goldencity
 
 - https://bitbucket.org/trend-dev/preproduction/src/main/backend/router.js
+- https://github.com/Iris-25/ERC20-Staking
 
 
 
@@ -118,6 +119,8 @@ The code is kept for educational and research purposes only.
 - [Maksym Tsilenko](https://www.linkedin.com/in/maksym-tsilenko-90865a340/)
 
 - [Francis Jacquet](https://www.linkedin.com/in/runenergie/)
+  
+- [Clement Privat](https://www.linkedin.com/in/clementprivat/)
 
 
 
